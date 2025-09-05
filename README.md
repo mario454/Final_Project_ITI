@@ -1,6 +1,6 @@
 # Title: Django Restaurant Management System
 ## Name: Everest Cuisine
-## Video Demo:  [youtube video](https://youtu.be/NY7KezwHg6w?si=U563QnuecfbeZ9Vq)
+## Video Demo:  [youtube video]()
 
 ### Description
 - Full-stack Python project using **Django** as the framework and **PostgreSQL** as the DBMS.  
@@ -330,5 +330,6 @@ def homepage(request):
 - Username: editOrders
 - email: orders@gmail.com
 - password: z59NpDFL.dq86ef
+
 
 
